@@ -26,15 +26,16 @@ Welcome to my GitHub page 😃
 
 <div id="header" align="center">
     <img src="https://media3.giphy.com/media/KZ4vcCsB00OfUICNve/giphy.gif?cid=790b761150eed1331b617d44d1508591d68f5c32f82e932e&rid=giphy.gif&ct=s" height="200">
+
 <div id="header" align="center">
-    <img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" height="200">
+    <iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"></a></p>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swigguma5776&hide=Jupyter+Notebook,HTML,CSS&theme=tokyonight)
 
-<p>
+
 [![swigguma5776 github stats](https://github-readme-stats.vercel.app/api?username=swigguma5776)](https://github.com/swigguma5776/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swigguma5776)](https://git.io/streak-stats)</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swigguma5776)](https://git.io/streak-stats)
 
 
 ## Leet Code
