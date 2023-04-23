@@ -1,8 +1,9 @@
 <h1 align='center'>Hey 👋🏼, I'm Alex!</h1>
-<h1 align='center'>Full Stack Software Engineer</h1>
-<h1 align='center'>Welcome to my GitHub page 😃</h1>.
+<h3 align='center'>Full Stack Software Engineer</h3>
 
- - 🔍 Check out my portfolio site <a href="hhttps://www.alexswiggum.com/">here</a>.
+Welcome to my GitHub page 😃
+
+- 🔍 Check out my portfolio site <a href="https://www.alexswiggum.com/">here</a>.
 
 - 💌 Please feel free to reach me on <a href="https://www.linkedin.com/in/alex-swiggum-profile/">LinkedIn</a> or via <a href="mailto:alexrswiggum@gmail.com?">email</a>.
 
@@ -28,9 +29,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swigguma5776&hide=Jupyter+Notebook,HTML,CSS&theme=tokyonight)
 
+[![swigguma5776 github stats](https://github-readme-stats.vercel.app/api?username=swigguma5776)](https://github.com/swigguma5776/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swigguma5776)](https://git.io/streak-stats)
 
-[![swigguma5776 github stats](https://github-readme-stats.vercel.app/api?username=swigguma5776)](https://github.com/swigguma5776/github-readme-stats)
 
 
 ## Leet Code
