@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)]()
+<div align='center'>[![MasterHead](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)]()</div>
  
 <h1 align='center'>Hey 👋🏼, I'm Alex!</h1>
 <h3 align='center'>Full Stack Software Engineer</h3>
