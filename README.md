@@ -29,14 +29,16 @@ Welcome to my GitHub page 😃
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-
+<div align='center'>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swigguma5776&hide=Jupyter+Notebook,HTML,CSS&theme=tokyonight)
 
+<span>
 
 [![swigguma5776 github stats](https://github-readme-stats.vercel.app/api?username=swigguma5776)](https://github.com/swigguma5776/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swigguma5776)](https://git.io/streak-stats)
+</span>
 
 
 ## Leet Code
