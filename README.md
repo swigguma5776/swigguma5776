@@ -26,8 +26,9 @@ Welcome to my GitHub page 😃
 
 <div id="header" align="center">
     <img src="https://media3.giphy.com/media/KZ4vcCsB00OfUICNve/giphy.gif?cid=790b761150eed1331b617d44d1508591d68f5c32f82e932e&rid=giphy.gif&ct=s" height="200">
+<div id="header" align="center">
+    <img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" height="200">
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swigguma5776&hide=Jupyter+Notebook,HTML,CSS&theme=tokyonight)
 
