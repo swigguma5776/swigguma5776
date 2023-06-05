@@ -31,7 +31,7 @@ Welcome to my GitHub page 😃
 
 <div align='center'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swigguma5776&hide=Jupyter+Notebook,HTML,CSS&theme=tokyonight)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=swigguma5776&layout=compact&langs_count=5&theme=tokyonight)]()
 
 <div>
     <span>
