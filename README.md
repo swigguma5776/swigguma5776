@@ -4,7 +4,8 @@
 </div>
  
 <h1 align='center'>Hey 👋🏼, I'm Alex!</h1>
-<h3 align='center'>Full Stack Software Engineer with an emphasis on Backend</h3>
+<h3 align='center'>Full Stack Software Engineer</h3>
+<h4 align='center'>with an emphasis on Backend</h4>
 
 Welcome to my GitHub page 😃
 
