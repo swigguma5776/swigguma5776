@@ -5,17 +5,21 @@
  
 <h1 align='center'>Hey 👋🏼, I'm Alex!</h1>
 <h3 align='center'>Full Stack Software Engineer</h3>
-<h3 align='center'>with an emphasis on Backend</h3>
+<!-- <h3 align='center'>with an emphasis on Backend</h3> -->
+
+</br>
 
 <div align='center'> 
 
  Welcome to my GitHub page 😃
 
-- 🔍 Check out my portfolio site <a href="https://www.alexswiggum.com/">here</a>.
+ 🔍 Check out my portfolio site <a href="https://www.alexswiggum.com/">here</a>.
 
-- 💌 Please feel free to reach me on <a href="https://www.linkedin.com/in/alex-swiggum-profile/">LinkedIn</a> or via <a href="mailto:alexrswiggum@gmail.com?">email</a>.
+💌 Please feel free to reach me on <a href="https://www.linkedin.com/in/alex-swiggum-profile/">LinkedIn</a> or via <a href="mailto:alexrswiggum@gmail.com?">email</a>.
 
 </div>
+
+</br>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
