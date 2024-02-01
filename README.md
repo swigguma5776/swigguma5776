@@ -49,7 +49,7 @@
     <span>
 
 [![swigguma5776 github stats](https://github-readme-stats.vercel.app/api?username=swigguma5776)](https://github.com/swigguma5776/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swigguma5776)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swigguma5776)](https://git.io/streak-stats) -->
     </span>
 </div>
 
