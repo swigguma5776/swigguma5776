@@ -14,7 +14,9 @@ Welcome to my GitHub page 😃
 - 💌 Please feel free to reach me on <a href="https://www.linkedin.com/in/alex-swiggum-profile/">LinkedIn</a> or via <a href="mailto:alexrswiggum@gmail.com?">email</a>.
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<p align="center"> 
+<a href="" target="_blank" rel="noreferer"> <img src="https://pixelbag.net/wp-content/uploads/2021/12/AWS-Logo-svg-768x768.jpg" alt="aws" width="40" height='40' /> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://hub.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.pngrepo.com/png/331370/512/docker.png" alt="docker" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
