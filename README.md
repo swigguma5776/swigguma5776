@@ -46,11 +46,10 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=swigguma5776&hide=jupyter%20notebook,c,css,html,mako&layout=compact&langs_count=5&theme=tokyonight)]()
 
 <div>
-<!--     <span> -->
 
 [![swigguma5776 github stats](https://github-readme-stats.vercel.app/api?username=swigguma5776)](https://github.com/swigguma5776/github-readme-stats)
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swigguma5776)](https://git.io/streak-stats) -->
-    </span>
+  
 </div>
 
 
